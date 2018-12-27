@@ -1,2 +1,2 @@
 # todo-app-watchandcode-
-very simple
+very simple javascript todo app
